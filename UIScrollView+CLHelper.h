@@ -14,4 +14,6 @@
 
 - (BOOL)isAtBottom;
 
+- (void)scrollToBottom:(BOOL)animated;
+
 @end

@@ -31,4 +31,9 @@
     return scrollViewBottomOffset;
 }
 
+- (void)scrollToBottom:(BOOL)animated {
+    [self setContentOffset: CGPointMake(self.contentOffset.x, [self verticalOffsetForBottom])
+                  animated: animated];
+}
+
 @end
