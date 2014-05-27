@@ -1,9 +1,9 @@
 //
 //  UIScrollView+CLHelper.m
-//  MySMS-Messenger
+//  CLHelper
 //
 //  Created by Christoph Lückler on 20.05.14.
-//  Copyright (c) 2014 sms.at mobile internet services gmbh. All rights reserved.
+//  Copyright (c) 2014 Up To Eleven. All rights reserved.
 //
 
 #import "UIScrollView+CLHelper.h"

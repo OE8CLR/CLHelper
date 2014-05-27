@@ -11,6 +11,6 @@ Pod::Spec.new do |spec|
   spec.platform    		= :ios, '5.0'
   spec.requires_arc     = true
   
-  spec.source_files     	= '*.{h,m}'
+  spec.source_files     	= 'CLHelper/Categories/*.{h,m}'
   
 end
